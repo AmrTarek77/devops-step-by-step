@@ -572,3 +572,52 @@ I enjoyed the whole course and i didn't feel bored or hard to focus at all. You 
 
 I can't thank you enough for your efforts and I hope you keep doing great content.
 <br></br>
+
+
+![Kareem Khamis](images/reviewers/kareem-fathy.png)
+
+## Kareem Khamis
+## Shifting Career to DevOps/USA
+
+Hi, my name is Kareem Khamis, currently residing in USA, I wanted to do a quick review on Mohamed Radwan's DevOps Course.
+
+I was in the first batch attending the course, I am considered one of the people who are shifting their career to DevOps, I will briefly try to explain my fondness with the course. 
+
+I liked the course because of 2 reasons:
+	The first reason is: DevOps as a field.
+	The second reason is: Mentoring and Support Program. 
+
+The course was a detailed roadmap for the DevOps Career, the course taught me what to learn, when to learn it, and how to apply what I learn practically; And this is the Course's Strongest Suit. I did not see this in any other course,specially in the DevOps Field.
+
+Most of the other courses usually delve right away into Technology or Tools, where as with Mohamed Radwan, I learned Architecture from scratch, and he explained the definitions and practices in detail.
+
+By following this path, it made me technology and tool Agnostic, and this gave me the flexibility to learn any new tool whenever I want it.
+
+Now for the second part, the community on the Q&A Platform, really helped me solve any issue I faced when solving the assignment, wether it be from Mohamed Radwan Personally or any one in the course!
+
+The final point which I will discuss is the Mentorship program, Mohamed Radwan's Thinking and directives are very practical.
+
+Let me give you an example to clarify, one of the traits he hammered into us in this age of informational chaos, is Priority Setting!
+
+This taught me what and when to learn, and how to maximize the benefit of what I learned, and this saved alot of effort and time!
+
+And thus Priority setting has become a staple in my everyday life.
+
+Currently, I am continuing with Mohamed Radwan in the Mentoring and Technical Support program, and I want to close by saying Thank you Mohamed Radwan and Good Luck!
+
+
+Reviewer's Video (Arabic)
+
+<a href="https://youtu.be/saRVh1KfU4A">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />
+</a> &ensp; 
+
+
+### Connect with Kareem: &ensp; 
+<a href="https://www.linkedin.com/in/kareem-fathy-393ba853/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a> &ensp; <a href="https://www.facebook.com/kareem.fathy.7">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+  </a>
+
+<br></br>
